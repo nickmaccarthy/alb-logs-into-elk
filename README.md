@@ -1,7 +1,7 @@
 # AWS ALB/ELB Logs for ELK
 
 ![Dashboard1](img/grafana_dashboard_1.png)
-![Dashboard2](img/grafana_dashbaord_2.png)
+![Dashboard2](img/grafana_dashboard_2.png)
 
 ## Usage 
 1. Setup an S3 Bucket for your logs from your AWS LB.  Check this link out for more information on how to do that: [AWS S3 Bucket LB Logs Setup](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html)
